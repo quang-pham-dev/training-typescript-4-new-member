@@ -1,0 +1,27 @@
+{
+  "name": "training4newmember",
+  "version": "1.0.0",
+  "description": "the course training for new member of my team",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangpn/training-typescript-4-new-member.git"
+  },
+  "keywords": [
+    "typescript",
+    "beginner"
+  ],
+  "bugs": {
+    "url": "https://github.com/quangpn/training-typescript-4-new-member/issues"
+  },
+  "author": "quangpn",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "tsun": "^0.5.0"
+  }
+}

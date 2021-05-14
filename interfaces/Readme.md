@@ -1,0 +1,10 @@
+- installation de typescript: `npm install -g typescript`
+- comppile version: `tsc --version`
+- compilation from .ts a .js
+- types: 
+- functions: 
+- interface: 
+- classes
+- Enums
+- Modules
+- generic types
